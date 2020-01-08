@@ -1,5 +1,5 @@
 # jpa-hibernate-junit
 
-##jpa and hibernate using Junit
+Maven project - jpa and hibernate using junit
 
 NamedQuery
